@@ -1,5 +1,5 @@
 # Student-Management-System
-Student Management System made by Java Swing. It is the desktop application in which we can add new students  , new courses and add score through various forms with respect to student id and course id. There are one login page by which we can enter to the dashboard and perform all the operation like delete , add  and update tables as per our requirements. We used XAMPP Server to save the data in the database and fetch all records from it.
+Student Management System made by Java Swing. It is the desktop application in which we can add new students  , new courses and add score through various forms with respect to student id and course id. There is a login page by which we can enter to the dashboard and perform all the operation like delete , add  and update tables as per our requirements. We used XAMPP Server to save the data in the database and fetch all records from it.
 
 # Log-in Form
 ![login1](https://user-images.githubusercontent.com/82877515/177710001-ab563b05-de2d-49ca-a4ac-1c419f2ef1e4.png)
